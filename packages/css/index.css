@@ -1,0 +1,10 @@
+.wrap {
+    padding: 0 .24rem;
+}
+.emoji-textarea {
+    width: 100%;
+    font-size: .32rem;
+}
+.swiper-item {width: 14.285%; padding: .1rem 0;text-align: center; float: left;}
+.swiper-item img {width: .48rem;height: .48rem;}
+.swiper-container {overflow: hidden!important;}
